@@ -12,6 +12,6 @@ public class Home extends AppCompatActivity {
     }
 
     protected void test(Bundle savedInstanceState) {
-        int two = 1+1;
+        int two = 1+1+0;
     }
 }
