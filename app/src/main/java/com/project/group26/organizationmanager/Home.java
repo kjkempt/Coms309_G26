@@ -10,4 +10,8 @@ public class Home extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.home);
     }
+
+    protected void test(Bundle savedInstanceState) {
+        int two = 1+1;
+    }
 }

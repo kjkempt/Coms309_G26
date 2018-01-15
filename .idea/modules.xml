@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Coms309_G26.iml" filepath="$PROJECT_DIR$/Coms309_G26.iml" />
+      <module fileurl="file://C:\Users\dbane\AndroidStudioProjects\Coms309_G26\Coms309_G26.iml" filepath="C:\Users\dbane\AndroidStudioProjects\Coms309_G26\Coms309_G26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
